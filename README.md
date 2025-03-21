@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently focusing on exploring 3D technology using three.js.<br>👯 I’m looking to collaborate on web development or simple 3D visualization projects.<br>🤝 I’m looking for help with understanding three.js better and learning 3D animation techniques.<br>🌱 I’m currently learning three.js and how to create interactive graphics for the web.<br>💬 Ask me about my programming journey or tips for getting started with three.js
+🔭 I’m currently focusing on exploring 3D technology using three.js.<br>👯 I’m looking to collaborate on web development or simple 3D visualization projects.<br>🤝 I’m looking for help with understanding three.js better and learning 3D animation techniques.<br>🌱 I’m currently learning three.js and how to create interactive graphics for the web.<br>💬 Ask me about my programming journey or tips for getting started with three.js.
 
 
 ## 🌐 Socials:
