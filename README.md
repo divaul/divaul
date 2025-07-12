@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <h1>👋 Hi, I'm Muhammad Diva Ul Haq</h1>
+  <h1>👋 Hi, I'm Muhammad Divaul Aula</h1>
   <h3>🚀 Passionate web developer exploring 3D technology with three.js. Building interactive experiences and sleek web applications.</h3>
 </div>
 
