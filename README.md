@@ -1,8 +1,6 @@
 <p align="center" width="100%" >
   <img src="pixel/pixel-jeff-mario.gif" alt="Mario Pixel" 
  alt="Coding gif"/>
- <img src="pixel/Cyberpunk City.jpg" alt="Mario Pixel" 
- alt="Coding gif"/>
 </p>
 
 <div align="center">
