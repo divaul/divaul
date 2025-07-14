@@ -23,7 +23,7 @@
 - 💼 Currently working on: **Exploring 3D technology with three.js**
 - 🌱 Learning: **three.js & 3D animation techniques**
 - 💬 Ask me about: **three.js, React, WebGL, JavaScript**
-- 📄 Resume: [My Resume](your-resume-link-here) <!-- Add your actual resume link -->
+- 📄 Resume: [My Resume](https://portofolio-divaul.vercel.app/) <!-- Add your actual resume link -->
 
 ---
 
